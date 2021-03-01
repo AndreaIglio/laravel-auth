@@ -1,0 +1,23 @@
+.create_btn {
+    position: fixed;
+    bottom: 50px;
+    right: 30px;
+    z-index: 99;
+    font-size: 32px;
+    border: none;
+    outline: none;
+    background-color: purple;
+    color: white;
+    cursor: pointer;
+    padding: 10px 20px;
+    border-radius: 50%;
+
+    a {
+        color: white;
+    }
+
+    a:hover {
+        color: black;
+        transition: 0.5s;
+    }
+}

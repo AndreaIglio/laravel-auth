@@ -4,5 +4,17 @@
 // Variables
 @import 'variables';
 
+// Common
+@import 'common';
+
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
+
+// Create_Btn
+
+@import 'partials/create_btn';
+
+
+//Card
+
+@import 'partials/card';

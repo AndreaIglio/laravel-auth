@@ -1,0 +1,1 @@
+<button class="create_btn" title="Create"><a href="{{route( 'admin.posts.create')}}"><i class="fas fa-plus"></i></a></button>
